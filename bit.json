@@ -1,0 +1,40 @@
+{
+    "env": {
+        "compiler": {
+            "bit.envs/compilers/typescript@3.1.53": {
+                "rawConfig": {
+                    "tsconfig": {
+                        "compilerOptions": {
+                            "target": "ES5",
+                            "module": "CommonJS",
+                            "jsx": "react",
+                            "lib": [
+                                "ES2015",
+                                "dom"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "tester": "bit.envs/testers/jest@22.4.3"
+    },
+    "overrides": {
+        "*": {
+            "devDependencies": {
+                "@types/node": "+",
+                "@types/react-jss": "+"
+            },
+            "peerDependencies": {
+                "react-jss": "+",
+                "classname": "+"
+            }
+        }
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "saveDependenciesAsComponents": true,
+    "packageManager": "yarn",
+    "dist": {
+        "target": "lib"
+    }
+}

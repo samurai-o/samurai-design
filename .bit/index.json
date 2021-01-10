@@ -1,0 +1,178 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/typescript"
+    },
+    "isSymlink": false,
+    "hash": "befd9e3f4fa0c82a53857ef8bdea434291b1ac27"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/compiler-types"
+    },
+    "isSymlink": false,
+    "hash": "9c86fadf101414c730daf20f3b3c0b3adcd84e79"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/get-capsule-name"
+    },
+    "isSymlink": false,
+    "hash": "26aefd5aeef44fe4baf09eb442719418744f2d7d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/isolate"
+    },
+    "isSymlink": false,
+    "hash": "496bad7d68cc0df1c0c925f5b2b9f4ed966707d2"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/preset"
+    },
+    "isSymlink": false,
+    "hash": "8b55cc1452e9a81dca45165c6487d3c867f04792"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/create-workspace"
+    },
+    "isSymlink": false,
+    "hash": "6b4cdb50159308c72de7a4291fc551540ba4a390"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/build-component"
+    },
+    "isSymlink": false,
+    "hash": "4046cf768d7527702d0d1393e876cf12efe18835"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "testers/jest"
+    },
+    "isSymlink": false,
+    "hash": "864f28616b37b2b1452567111cc6e2ccaefd6572"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "file/extract-file-name-from-path"
+    },
+    "isSymlink": false,
+    "hash": "40b6505e0d7e94e891622864a08c778d10937456"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "validation/empty"
+    },
+    "isSymlink": false,
+    "hash": "f3eaf6905e683e3a07caa88471fa4fd5637fde13"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "bundlers/webpack"
+    },
+    "isSymlink": false,
+    "hash": "ae10cbe2e10f2cec2323ed796715efd1c3cfd818"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "slider"
+    },
+    "isSymlink": true,
+    "hash": "703c518a23972ccb5a641ead17d3e5305e95da31"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "tabs"
+    },
+    "isSymlink": true,
+    "hash": "72a26a3e0e42e0991a18a2080c2d2796dd97f964"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "hooks/use-interval"
+    },
+    "isSymlink": true,
+    "hash": "dbcd0ecfd16c3d508b004df74fe85077e657007d"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "styles"
+    },
+    "isSymlink": true,
+    "hash": "bf62280f159b1468fff0c96540f3989d41279669"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "theme"
+    },
+    "isSymlink": true,
+    "hash": "dc151a5a2b81059b41f6ee78dbae34c114ce1528"
+  },
+  {
+    "id": {
+      "scope": "samurai.samurai-design",
+      "name": "slider"
+    },
+    "isSymlink": false,
+    "hash": "3a23a3afe2ada9a47ff6b7997dfb982db4579f5f"
+  },
+  {
+    "id": {
+      "scope": "samurai.samurai-design",
+      "name": "tabs"
+    },
+    "isSymlink": false,
+    "hash": "e09a735e03797df9bf62cf78848f307e69e2bdb5"
+  },
+  {
+    "id": {
+      "scope": "samurai.samurai-design",
+      "name": "hooks/use-interval"
+    },
+    "isSymlink": false,
+    "hash": "860626097ebd6df7f38e04617d8a5c9b746c4a86"
+  },
+  {
+    "id": {
+      "scope": "samurai.samurai-design",
+      "name": "styles"
+    },
+    "isSymlink": false,
+    "hash": "37411389825ac7bf0f0be6905ed284f5fc30d538"
+  },
+  {
+    "id": {
+      "scope": "samurai.samurai-design",
+      "name": "theme"
+    },
+    "isSymlink": false,
+    "hash": "d13c3c0f21f59505c93fea28608d211bf5f50fab"
+  }
+]
