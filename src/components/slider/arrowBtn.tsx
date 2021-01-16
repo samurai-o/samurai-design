@@ -1,7 +1,5 @@
-import React from 'react';
+import React from "react";
 
 export function ArrowBtn() {
-    return (
-        
-    )
+	return <div>1</div>;
 }

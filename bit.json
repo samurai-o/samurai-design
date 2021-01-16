@@ -23,7 +23,9 @@
         "*": {
             "devDependencies": {
                 "@types/node": "+",
-                "@types/react-jss": "+"
+                "@types/react-jss": "+",
+                "mocha": "+",
+                "chai": "+"
             },
             "peerDependencies": {
                 "react-jss": "+",
